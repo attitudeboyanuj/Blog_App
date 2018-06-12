@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Blog App</string>
+    <string name="title">Title</string>
+    <string name="title_goes_here">Title Goes Here</string>
+    <string name="username">UserName</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">sign up</string>
+    <string name="sign_in">sign in</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
